@@ -64,6 +64,7 @@ h4 {
 
 .post > .date,
 .post > .actions {
+    margin-left: 1em;
     float: right;
 }
 
@@ -77,4 +78,8 @@ h4 {
 .btn-secondary:hover {
     color: #FFFFFF;
     background-color: #C25100;
+}
+
+.comment{
+    margin: 20px 0px 20px 0px;
 }
